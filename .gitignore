@@ -1,0 +1,43 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebug-Dedicated/
+[Rr]elease/
+[Rr]elease-Dedicated/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+src/curl-7\.12\.2/lib/libcurld\.lib
+
+src/curl-7\.12\.2/lib/vc140\.idb
